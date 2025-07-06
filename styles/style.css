@@ -90,7 +90,10 @@
 }
 
 .staff {
-  padding: 80px;
+  padding-top: 68px;
+  padding-bottom: 68px;
+  padding-left: 80px;
+  padding-right: 80px;
   background-image: url(../images/staff_picks_background.jpg);
   background-size: cover;
   background-position: center;
@@ -127,7 +130,7 @@
   height: 420px;
   background-color: #ffffff;
   border-radius: 8px;
-  padding: 20px;
+  padding: 40px;
   display: flex;
   flex-direction: column;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);

@@ -366,7 +366,8 @@
 }
 
 .footer__logo {
-  width: 60px;
+  width: 58px;
+  height: 80px;
 }
 
 .footer__column-heading {
@@ -394,12 +395,12 @@
 }
 
 .footer__social-icon {
-  width: 20px;
-  height: 20px;
+  width: 16px;
+  height: 16px;
 }
 
 .footer__copyright {
-  margin-top: 40px;
+  margin-top: 80px;
   font-size: 14px;
   text-align: left;
 }

@@ -318,7 +318,7 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
-  gap: 60px;
+  gap: 40px;
   flex-wrap: wrap;
 }
 
@@ -358,9 +358,11 @@
 }
 
 .footer__column_content_hours {
+  margin-left: 60px;
 }
 
 .footer__column_content_social {
+  margin-left: 80px;
 }
 
 .footer__logo {
